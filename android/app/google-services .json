@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978111752361",
+    "project_id": "crop-93bac",
+    "storage_bucket": "crop-93bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978111752361:android:1028949dc02416593e21b8",
+        "android_client_info": {
+          "package_name": "com.example.yield_predictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMx27MdfzblaB50MlE1dHSQeicJpnUgxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
